@@ -1,0 +1,1 @@
+console.log("shows all the spinning prjects");
